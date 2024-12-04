@@ -22,11 +22,6 @@ The classification process is structured into the following stages:
 - Build and compile a convolutional neural network (CNN) using TensorFlow/Keras.
 - Employ techniques like dropout and regularization to prevent overfitting.
 
-### Visualizations
-- **Displaying Sample Images**: View examples of CIFAR-10 images and their labels.
-- **Training Accuracy and Loss**: Visualize accuracy and loss metrics over training epochs.
-- **Confusion Matrix**: Analyze the model's classification performance with a confusion matrix.
-
 ### Performance Metrics
 - Calculate and visualize the model's accuracy and loss across training epochs.
 - Use a confusion matrix for detailed performance insights.
